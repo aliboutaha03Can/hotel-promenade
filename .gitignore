@@ -1,0 +1,10 @@
+node_modules/
+database.db
+.env
+.venv/
+.vscode/
+.railway/
+uploads/
+runtime/
+extract_pdf.py
+*.bak-*
