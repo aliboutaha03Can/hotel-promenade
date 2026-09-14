@@ -1,6 +1,6 @@
 # Hotel La Promenade - Plateforme de Gestion des Evenements
 
-Application web interne pour gerer les evenements, les salles, les invites, les services, les factures, les utilisateurs et les notifications d'un hotel.
+Application web interne pour gerer les evenements, les salles, les invites, les services, les factures, les utilisateurs et les notifications d'un hotel. Le projet integre aussi un Concierge IA personnalise: un chatbot cree sur mesure pour comprendre les demandes operationnelles, lire les donnees de la plateforme et assister les roles internes.
 
 <img width="100%" alt="Dashboard Hotel La Promenade" src="docs/screenshots/dashboard.png" />
 
@@ -8,7 +8,7 @@ Application web interne pour gerer les evenements, les salles, les invites, les 
 
 # Apercu
 
-Hotel La Promenade centralise les operations evenementielles d'un hotel dans une interface premium, responsive et orientee roles.
+Hotel La Promenade centralise les operations evenementielles d'un hotel dans une interface premium, responsive et orientee roles. L'application utilise l'IA dans le Concierge IA afin d'aider les utilisateurs a interroger les evenements, les salles, les invites, les factures, les services, les rapports et les utilisateurs sans parcourir manuellement chaque page.
 
 - Creer et suivre des evenements.
 - Reserver des salles et consulter le calendrier.
@@ -16,15 +16,25 @@ Hotel La Promenade centralise les operations evenementielles d'un hotel dans une
 - Ajouter des services comme traiteur, decoration, photo, DJ ou audiovisuel.
 - Generer des factures, recus et rapports financiers.
 - Echanger des messages internes entre utilisateurs.
-- Utiliser un concierge IA avec fallback operationnel.
+- Utiliser un Concierge IA personnalise avec fallback operationnel.
 - Recevoir un debrief concierge Telegram admin-only.
 
-<img width="3835" height="1958" alt="image" src="https://github.com/user-attachments/assets/3f87509f-0042-46a8-bce5-0d7f0700602c" />
-
+<img width="100%" alt="Page de connexion" src="docs/screenshots/login.png" />
 
 ---
 
-# Captures d'ecran
+# Concierge IA
+
+Le Concierge IA est un assistant integre directement dans l'interface. Il a ete concu comme un chatbot metier pour l'Hotel La Promenade: il peut repondre aux questions sur les donnees visibles selon le role connecte, guider les actions courantes et continuer a fonctionner avec un mode de secours quand un fournisseur IA externe est lent ou indisponible.
+
+- Consultation intelligente des evenements, salles, invites, services, factures, rapports et utilisateurs.
+- Actions assistees: creation d'evenements, reservation de salles, ajout d'invites, demandes de services et generation de factures.
+- Reponses adaptees au contexte du compte connecte et aux permissions de chaque role.
+- Fallback operationnel pour eviter les messages d'erreur lorsque l'API IA ne repond pas assez vite.
+
+<img width="100%" alt="Concierge IA personnalise" src="docs/screenshots/concierge.png" />
+
+---
 
 ## Evenements
 
