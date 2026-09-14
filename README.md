@@ -2,7 +2,7 @@
 
 Application web interne pour gerer les evenements, les salles, les invites, les services, les factures, les utilisateurs et les notifications d'un hotel.
 
-<img width="1440" alt="Dashboard Hotel La Promenade" src="docs/screenshots/dashboard.png" />
+<img width="100%" alt="Dashboard Hotel La Promenade" src="docs/screenshots/dashboard.png" />
 
 ---
 
@@ -19,7 +19,7 @@ Hotel La Promenade centralise les operations evenementielles d'un hotel dans une
 - Utiliser un concierge IA avec fallback operationnel.
 - Recevoir un debrief concierge Telegram admin-only.
 
-<img width="1440" alt="Page de connexion" src="docs/screenshots/login.png" />
+<img width="100%" alt="Page de connexion" src="docs/screenshots/login.png" />
 
 ---
 
@@ -29,25 +29,25 @@ Hotel La Promenade centralise les operations evenementielles d'un hotel dans une
 
 Gestion des evenements avec cartes, statuts, calendrier et actions d'administration.
 
-<img width="1440" alt="Evenements" src="docs/screenshots/evenements.png" />
+<img width="100%" alt="Evenements" src="docs/screenshots/evenements.png" />
 
 ## Reservation des salles
 
 Catalogue des salles, filtres visuels, reservation et calendrier optimise.
 
-<img width="1440" alt="Salles" src="docs/screenshots/salles.png" />
+<img width="100%" alt="Salles" src="docs/screenshots/salles.png" />
 
 ## Invites
 
 Ajout manuel, import CSV/XLS/XLSX, suivi des statuts et envoi d'invitations par Gmail API.
 
-<img width="1440" alt="Invites" src="docs/screenshots/invites.png" />
+<img width="100%" alt="Invites" src="docs/screenshots/invites.png" />
 
 ## Facturation
 
 Creation de factures, paiement, recus PDF, envoi par email et rapports.
 
-<img width="1440" alt="Facturation" src="docs/screenshots/facturation.png" />
+<img width="100%" alt="Facturation" src="docs/screenshots/facturation.png" />
 
 ---
 
