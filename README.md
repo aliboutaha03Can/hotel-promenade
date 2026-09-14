@@ -19,7 +19,8 @@ Hotel La Promenade centralise les operations evenementielles d'un hotel dans une
 - Utiliser un concierge IA avec fallback operationnel.
 - Recevoir un debrief concierge Telegram admin-only.
 
-<img width="100%" alt="Page de connexion" src="docs/screenshots/login.png" />
+<img width="3835" height="1958" alt="image" src="https://github.com/user-attachments/assets/3f87509f-0042-46a8-bce5-0d7f0700602c" />
+
 
 ---
 
